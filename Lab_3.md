@@ -110,5 +110,4 @@ if __name__ == "__main__":
 ```
 
 Rezultat: 
-
-![BINGO.png](Lab%203%20Symmetric%20key%20cryptography%20(a%20crypto%20challen%20225b8bd56d68489183ee7410cf6d746b/BINGO.png)
+![BINGO](https://user-images.githubusercontent.com/92445348/205780929-2c7b8590-aba5-424d-b39c-c9e3054afd49.png)
