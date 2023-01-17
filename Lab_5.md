@@ -7,8 +7,7 @@ Obradili smo različite načine sigurne pohrane i zaštite lozinki. Usporedili s
 - brze - klasične kriptografske funkcije ; spore -  specijalizirane
 - pratimo upute:
 - kopiranje requirements iz githuba, pip install i kopiranje koda iz githuba
-- AES - enkripcijski algoritam za simetričnu enkripciju(nije hash)
-HASH-SHA - kriptografske hash funkcije
+- AES - enkripcijski algoritam za simetričnu enkripciju(nije hash), HASH-SHA - kriptografske hash funkcije
 - Eksperiment mjerenja vremena treba ponovit više puta(100)
 - AES ne troši puno resursa- memorije i procesora
 - Linux_hash troši puno procesora, a ne memorije
