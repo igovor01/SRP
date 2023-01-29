@@ -44,8 +44,9 @@ pokušat ćemo s ovog lokalnog računala otvorit i spojit se na port 22 koriste�
 
 - pronađena lozinka za govorusicivana: **fiofow**
     
-    ![Untitled](Lab%206%20Online%20and%20Offline%20Password%20Guessing%20d6cbf2fc7edb439ba8e1d500e093d714/Untitled.png)
     
+    ![Untitled](https://user-images.githubusercontent.com/92445348/215321757-70aad1a6-72a2-4568-beda-1a5413e01486.png)
+
 
 **Offline Password Guessing**
 
@@ -56,8 +57,8 @@ pokušat ćemo s ovog lokalnog računala otvorit i spojit se na port 22 koriste�
 
 - gdje naći password hasheve u linuxu: (označeni dio je hash)
     
-    ![Untitled](Lab%206%20Online%20and%20Offline%20Password%20Guessing%20d6cbf2fc7edb439ba8e1d500e093d714/Untitled%201.png)
-    
+    ![Untitled 1](https://user-images.githubusercontent.com/92445348/215321767-a63fcb92-21a4-4f16-bfba-2fa8114d4246.png)
+
 - kopirat od alice cooper hash:
     
     > $6$rR6Ss1YUv72kRtM0$jJd2mkJnZiry/vd1c/bk/f9BAo5SMMZGCmE6ZFlb9TjTXsNejjtKsjDeqilZ2vU..XQ.2w3O4QEGLXpaTRyYu/
@@ -73,7 +74,7 @@ pokušat ćemo s ovog lokalnog računala otvorit i spojit se na port 22 koriste�
     
 - nađemo lozinku od alicecooper: **typowh**
     
-    ![Untitled](Lab%206%20Online%20and%20Offline%20Password%20Guessing%20d6cbf2fc7edb439ba8e1d500e093d714/Untitled%202.png)
+    ![Untitled 2](https://user-images.githubusercontent.com/92445348/215321775-be50bbfe-f3f1-406a-83c0-2400bfa22c88.png)
     
 
 - uspješno se logiramo s pronađenom lozinkom
